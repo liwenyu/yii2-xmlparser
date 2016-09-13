@@ -1,7 +1,7 @@
 {
     "name": "liwenyu/yii2-xmlparser",
-    "description": "yii2 xml request parser",
-    "keywords": ["yii2", "xml", "parse", "request", "Request"],
+    "description": "yii2 framework xml parser",
+    "keywords": ["yii2", "xml", "parse", "request"],
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2": "2.*.*"
