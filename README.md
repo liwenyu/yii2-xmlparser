@@ -28,7 +28,7 @@ return [
     'components' => [
     'request' => [
         'parsers' => [
-	        	'application/xml' => 'liwenyu\yii2\Hello',
+	        	'application/xml' => 'liwenyu\yii2\XmlParser',
 	        ],
         ],
     ],
