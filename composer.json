@@ -1,13 +1,15 @@
 {
     "name": "liwenyu/yii2-xmlparser",
     "description": "yii2 framework xml parser",
-    "keywords": ["yii2", "xml", "parse", "request"],
+    "keywords": ["yii2", "xml", "parser", "request"],
+    "type":"library",
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2": "2.*.*",
         "liwenyu/yii2-xmlparser": "*"
     },
-    "license": "MIT",
+    "license": "BSD-3-Clause",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "liwenyu",
