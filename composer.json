@@ -1,0 +1,22 @@
+{
+    "name": "liwenyu/yii2-xmlparser",
+    "description": "yii2 xml request parser",
+    "keywords": ["yii2", "xml", "parse", "request", "Request"],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "2.*.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liwenyu",
+            "email": "liwenyu66@126.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "liwenyu\\yii2\\": "/src"
+        }
+    }
+}
+
