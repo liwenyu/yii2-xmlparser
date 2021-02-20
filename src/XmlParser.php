@@ -19,8 +19,8 @@ use yii\web\RequestParserInterface;
  * ]
  * ```
  *
- * @author Dan Schmidt <danschmidt5189@gmail.com>
- * @since 2.0
+ * @author liwenyu <liwenyu66@gmail.com>
+ * @since 1.0.0
  */
 class XmlParser implements RequestParserInterface
 {
@@ -32,7 +32,6 @@ class XmlParser implements RequestParserInterface
      * @var boolean whether to throw a [[BadRequestHttpException]] if the body is invalid xml
      */
     public $throwException = true;
-
 
     /**
      * Parses a HTTP request body.
